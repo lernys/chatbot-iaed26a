@@ -150,7 +150,7 @@ body { font-family: 'DM Sans', -apple-system, sans-serif; background: ${embedded
           <div className="header-logo">🤖</div>
           <div>
             <h1>Lía · IAED<span>26A</span></h1>
-            <small>IA en Educación · Virtual Educa 2025</small>
+            <small>IA en Educación · Aprende Virutal 2026</small>
           </div>
           <div className="header-right">
             <div className="badge"><div className="badge-dot" /> En línea</div>
